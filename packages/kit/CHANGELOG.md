@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.2
+
+### Patch Changes
+
+- Fix form action redirect status code ([#8210](https://github.com/sveltejs/kit/pull/8210))
+
 ## 1.0.1
 
 ### Patch Changes
