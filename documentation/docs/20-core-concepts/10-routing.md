@@ -2,7 +2,7 @@
 title: Routing
 ---
 
-At the heart of SvelteKit is a _filesystem-based router_. The routes of your app — i.e. the URL paths that users can access — are defined by the directories in your codebase:
+Edit. At the heart of SvelteKit is a _filesystem-based router_. The routes of your app — i.e. the URL paths that users can access — are defined by the directories in your codebase:
 
 - `src/routes` is the root route
 - `src/routes/about` creates an `/about` route
